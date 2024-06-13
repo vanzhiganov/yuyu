@@ -41,8 +41,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'djmoney',
     'rest_framework',
-    'core',
-    'api',
+    'yuyu.core',
+    'yuyu.api',
 ]
 
 MIDDLEWARE = [
